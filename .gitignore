@@ -1,0 +1,24 @@
+# Node.js
+node_modules/
+.env
+dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Android
+ZenithFoodsAndroid/.gradle/
+ZenithFoodsAndroid/**/build/
+ZenithFoodsAndroid/**/*.apk
+ZenithFoodsAndroid/**/*.hprof
+ZenithFoodsAndroid/local.properties
+ZenithFoodsAndroid/.idea/
+ZenithFoodsAndroid/*.iml
+ZenithFoodsAndroid/app/*.iml
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
